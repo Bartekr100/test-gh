@@ -1,3 +1,4 @@
 # test-gh
 
-tekst to cwiczenia
+tekst to ćwiczenia!
+
