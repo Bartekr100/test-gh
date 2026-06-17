@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 23324
 
 4242
+=======
+UTAJ ZMIANA Z MAIN 
+edefefefeef
+TUTUAJ DAŁEM THRRE WAY MERGE
+
+mama
+
+
+
+tata 9
+
+
+cycki
+dupa
+>>>>>>> 2d43bcd49085e571d45fd7d08202e47710e315cb
