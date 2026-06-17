@@ -1,7 +1,6 @@
 UTAJ ZMIANA Z MAIN 
 edefefefeef
 TUTUAJ DAŁEM THRRE WAY MERGE
-<<<<<<< HEAD
 
 
 
@@ -11,6 +10,4 @@ TUTUAJ DAŁEM THRRE WAY MERGE
 
 
 cycki
-=======
 dupa
->>>>>>> new
