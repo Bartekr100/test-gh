@@ -1,10 +1,14 @@
 # test-gh
 
 tekst to ćwiczenia!
-nastepna zmiana
+chuj ci w pdue
+nastepna zmiana ffeefe
 
 
 
-Zmaiana w NOWYM BRUNHU
+Zmaiana w NOWYM BRUNHUfefe 
 
 end third_branch
+
+
+NEEEEWWW PUUULL REQUEST
