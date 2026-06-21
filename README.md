@@ -1,7 +1,7 @@
 # test-gh
 
 tekst to ćwiczenia!
-nastepna zmiana
+chuj ci w pdue
 
 
 
